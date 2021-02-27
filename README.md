@@ -1,2 +1,2 @@
 # BankMarketing
-Predict if client will subsrice a term deposit or not 
+## Predict if client will subscribe a term deposit or not 
